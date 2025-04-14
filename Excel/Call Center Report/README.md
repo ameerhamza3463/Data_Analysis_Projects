@@ -32,8 +32,7 @@ To empower call center managers and analysts with a comprehensive view of operat
 - Custom layout optimized for clarity and ease of use
 
 ## 🖼️ Preview
-
-> ![Alt text](/relative/path/to/img.jpg?raw=true "Dashboard ScreenShot") 
+![Dashboard Screenshot](https://github.com/ameerhamza3463/Data_Analysis_Projects/blob/master/Excel/Call%20Center%20Report/dashboard.png)
 
 ## 🚀 How to Use
 
