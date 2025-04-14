@@ -6,7 +6,6 @@ This project is a dynamic and interactive Excel-based dashboard developed to ana
 
 The dashboard compiles raw call center data and transforms it into meaningful summaries and visual reports. It focuses on metrics such as:
 - Total Calls Received
-- Answer Rate & Missed Call Rate
 - Average Call Duration
 - Agent-wise Performance
 - Customer Satisfaction Scores
@@ -23,7 +22,6 @@ To empower call center managers and analysts with a comprehensive view of operat
 | 🔄 Data Modeling        | Data Relationships, Data Model integration                    |
 | 🎨 Visualization        | Charts (Bar, Line, Combo), KPIs, Conditional Formatting        |
 | 🧠 Interactivity        | Slicers, Dynamic Chart Titles, Interactive Filters            |
-| 🔍 Data Preparation     | Power Query (if applicable)                                   |
 | 🖌️ Custom Design        | Clean layout, color themes, and logical data arrangement       |
 
 ## 📈 Key Features
@@ -35,7 +33,7 @@ To empower call center managers and analysts with a comprehensive view of operat
 
 ## 🖼️ Preview
 
-> ![alt text](image.png)
+> ![Alt text](/relative/path/to/img.jpg?raw=true "Dashboard ScreenShot") 
 
 ## 🚀 How to Use
 
